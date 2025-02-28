@@ -10,3 +10,7 @@ clone - bringing a repository that is hosted somewhere to the local machine
 ## Subheader
 
 In cloning you get two options HTTPS and SSH
+
+## Local Development 
+
+1. Open index.html in your particular environment/browser.
